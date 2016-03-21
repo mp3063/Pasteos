@@ -15,7 +15,7 @@ class Redirects
     {
         if ( $true == true ) {
             return Redirect::to( '/auth/login' )
-                           ->with( self::flashMessageImportant( 'Your account was created! We send you activation mail.' ) );
+                           ->with( self::flashMessageImportant( 'Your account was created! We send you activation mail. Check your spam folder! Don\'t worry we are not going to spam your mail!'  ) );
         }
 
         return Redirect::to( '/auth/register' )
