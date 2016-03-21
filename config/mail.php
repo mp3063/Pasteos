@@ -44,7 +44,7 @@ return [ /*
          | used globally for all e-mails that are sent by your application.
          |
          */
-         'from'       => [ 'address' => 'predigrabend@gmail.com',
+         'from'       => [ 'address' => 'sin@pasteos.com',
                            'name'    => 'Srdjan Sin Jovanovic' ],
          /*
          |--------------------------------------------------------------------------

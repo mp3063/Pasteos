@@ -7,7 +7,7 @@
             <h1>Pasteos</h1>
             <hr>
             <h4>
-                With PASTEOS you can describe a particular programming process in small steps to help you remember it for future SELF and others... Just create your account on PASTEOS and start saving something, cause you might forget that in future!!!
+                With PASTEOS you can add group of snippets to describe a particular programming process in small steps to help you remember it for future SELF and others... Just create your account on PASTEOS and start saving something, cause you might forget that in future!!!
             </h4>
             {{--<h5>--}}
                 {{--Just copy and paste steps you find on internet from different resources, describe it, and make shure that these steps work on your computer to complete certain process, no matter how small or big is! <p>Or learn from others!!!</p>--}}
