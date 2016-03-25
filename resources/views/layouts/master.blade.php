@@ -68,7 +68,8 @@
                 <div class="form-group">
                     <input type="text" class="form-control search" name="search" placeholder="Global Search">
                 </div>
-                <button type="submit" class="btn btn-default">Search/Show All</button>
+                <button type="submit" class="btn btn-default">Search</button>
+                <a href="/search" class="btn btn-default">Show all from Pasteos</a>
             </form>
             <ul class="nav navbar-nav navbar-right">
                 @if(Auth::check())

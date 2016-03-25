@@ -1,51 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    <url>
-        <loc>http://www.pasteos.com/search</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/auth/login</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/auth/register</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/barryvdh-laravel-ide-helper-for-phpstorm</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/virtual-hosts-ubuntu-14-04</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/how-to-upgrade-mysql-5-5-to-5-6-on-ubuntu-14-04-serverpilot</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/htaccess-deny-root-allow-specific-subfolder</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/remove-old-kernels-in-ubuntu-with-one-command</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/easy-laravel-auth-with-mail-activation</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/vagrant-homestead-laravel-and-phpstorm</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/laravel-seed-procedure</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/read-only/angular-toggle-html-class-on-click</loc>
-    </url>
-    <url>
-        <loc>http://www.pasteos.com/auth/forgotpassword</loc>
-    </url>
+<url>
+  <loc>http://pasteos.com/</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/search</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/auth/login</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/auth/register</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/barryvdh-laravel-ide-helper-for-phpstorm</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/virtual-hosts-ubuntu-14-04</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/how-to-upgrade-mysql-5-5-to-5-6-on-ubuntu-14-04-serverpilot</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/htaccess-deny-root-allow-specific-subfolder</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/remove-old-kernels-in-ubuntu-with-one-command</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/easy-laravel-auth-with-mail-activation</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/vagrant-homestead-laravel-and-phpstorm</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/laravel-seed-procedure</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/angular-toggle-html-class-on-click</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/generate-ssh-key-on-windows</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/import-existing-database-into-homestead</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/read-only/ignore-idea-folder-from-git-in-phpstorm</loc>
+</url>
+<url>
+  <loc>http://pasteos.com/auth/forgotpassword</loc>
+</url>
 </urlset>
