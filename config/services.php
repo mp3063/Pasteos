@@ -10,8 +10,8 @@ return [ /*
     | to have a conventional place to find your various credentials.
     |
     */
-         'mailgun'  => [ 'domain' => 'pasteos.com',
-                         'secret' => env('MAILGUN-API-KEY',''), ],
+         'mailgun'  => [ 'domain' => '',
+                         'secret' => '', ],
          'mandrill' => [ 'secret' => '', ],
          'ses'      => [ 'key'    => '',
                          'secret' => '',
